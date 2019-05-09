@@ -1,4 +1,5 @@
 # Add  code here!
 def prime?(n)
-  prime.prime
+  prime.prime?(n)
+end
   
