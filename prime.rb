@@ -1,5 +1,5 @@
 # Add  code here!
-require 'Prime'
+require 'prime'
 
 def prime?(n)
   Prime.prime?(n)
